@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render a snapshot 1`] = `
+<div
+  className="fade alert alert-success show"
+  role="alert"
+>
+  <p>
+    If you are reading this, then I have successfully made the alert!
+  </p>
+</div>
+`;
